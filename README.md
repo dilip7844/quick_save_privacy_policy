@@ -1,8 +1,3 @@
-# quick_save_privacy_policy
-Start
-
-
-
 <html>
 <body>
 <h2>Privacy Policy</h2>
@@ -79,9 +74,7 @@ Start
     on this page. These changes are effective immediately, after they are posted on this page.</p>
 
 <p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about [my|our] Privacy Policy, do not hesitate to contact
-    [me|us].</p>
-<p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
-                                              target="_blank">privacypolicytemplate.net</a>.</p>
+<p>If you have any questions or suggestions about my app, do not hesitate to contact
+	<a hef="apps.dtech@gmail.com">apps.dtech@gmail.com</a></p>
 </body>
 </html>
